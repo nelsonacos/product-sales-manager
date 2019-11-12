@@ -1,1 +1,1 @@
-{"version":3,"file":"database.js","sourceRoot":"","sources":["../src/database.ts"],"names":[],"mappings":""}
+{"version":3,"file":"database.js","sourceRoot":"","sources":["../src/database.ts"],"names":[],"mappings":";;;;;;;;;;;AAAA,uCAAmC;AAEnC,SAAsB,eAAe;;QACjC,IAAI;YACA,MAAM,kBAAO,CAAC,8CAA8C,EAAE;gBAC9D,eAAe,EAAE,IAAI;gBACrB,kBAAkB,EAAE,IAAI;gBACxB,gBAAgB,EAAE,KAAK;aAC1B,CAAC,CAAC;YACH,OAAO,CAAC,GAAG,CAAC,iBAAiB,CAAC,CAAC;SAC9B;QAAC,OAAO,GAAG,EAAE;YACV,MAAM,GAAG,CAAC;SACb;IAEL,CAAC;CAAA;AAZD,0CAYC"}
