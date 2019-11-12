@@ -12,7 +12,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 function helloWorld(req, res) {
     return __awaiter(this, void 0, void 0, function* () {
         return yield res.json({
-            message: "Hello World"
+            message: "Test Route"
         });
     });
 }
