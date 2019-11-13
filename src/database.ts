@@ -5,7 +5,8 @@ export async function startConnection() {
         await connect('mongodb://localhost/product-sales-manager-db', {
         useNewUrlParser: true,
         useUnifiedTopology: true,
-        useFindAndModify: false
+        useFindAndModify: false,
+        useCreateIndex: true
     });
     console.log('DB is connected');
     } catch (err) {
